@@ -1,4 +1,4 @@
-# GOV.UK Prototyping Kit
+# GOV.UK Awesome Prototyping Kit
 
 The kit provides a simple way to make interactive prototypes that look like pages on GOV.UK. These prototypes can be used to show ideas to people you work with, and to do user research.
 
